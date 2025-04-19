@@ -1,3 +1,4 @@
+import os
 from fastapi import FastAPI
 from bot.bot import setup_bot
 from aiohttp import web
